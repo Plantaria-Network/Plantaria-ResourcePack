@@ -1,0 +1,12 @@
+{
+  "providers": [
+    {"file": "plantaria:ranks/admin-label.png","chars": ["\uE250"],"height": 7,"ascent": 7,"type": "bitmap"},
+    {"file": "plantaria:ranks/senior-label.png","chars": ["\uE251"],"height": 7,"ascent": 7,"type": "bitmap"},
+    {"file": "plantaria:ranks/content-label.png","chars": ["\uE252"],"height": 7,"ascent": 7,"type": "bitmap"},
+    {"file": "plantaria:ranks/moderator-label.png","chars": ["\uE253"],"height": 7,"ascent": 7,"type": "bitmap"},
+    {"file": "plantaria:ranks/vipplus-label.png","chars": ["\uE254"],"height": 7,"ascent": 7,"type": "bitmap"},
+    {"file": "plantaria:ranks/vip-label.png","chars": ["\uE255"],"height": 7,"ascent": 7,"type": "bitmap"},
+    {"file": "plantaria:ranks/premiumplus-label.png","chars": ["\uE256"],"height": 7,"ascent": 7,"type": "bitmap"},
+    {"file": "plantaria:ranks/premium-label.png","chars": ["\uE257"],"height": 7,"ascent": 7,"type": "bitmap"}
+  ]
+}

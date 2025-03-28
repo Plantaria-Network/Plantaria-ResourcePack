@@ -12,6 +12,9 @@ This resource pack is published under the **Creative Commons License** and is re
 ## Contributions
 - Feedback and bug reports: Create an [Issue](https://github.com/Plantaria-Network/Plantaria-ResourcePack/issues).
 
+## Ranks
+For a complete list of rank labels, see [Plantaria Rank Labels](plantaria-ranks.md).
+
 ## Contact
 Visit us on our website:  
 - Website: [Plantaria Network](https://plantaria.net)
