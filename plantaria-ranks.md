@@ -1,33 +1,33 @@
 # Ränge & Labels
 
-## Admin
-**Zeichen:** `\uE250`
+## Admin | ![Admin Label](https://raw.githubusercontent.com/Plantaria-Network/Plantaria-ResourcePack/main/assets/plantaria/textures/ranks/admin-label.png)
+**Zeichen:** `\uE250`  
 **Datei:** `plantaria:ranks/admin-label.png`
 
-## Senior
-**Zeichen:** `\uE251`
+## Senior | ![Senior Label](https://raw.githubusercontent.com/Plantaria-Network/Plantaria-ResourcePack/main/assets/plantaria/textures/ranks/senior-label.png)
+**Zeichen:** `\uE251`  
 **Datei:** `plantaria:ranks/senior-label.png`
 
-## Content
-**Zeichen:** `\uE252`
+## Content | ![Content Label](https://raw.githubusercontent.com/Plantaria-Network/Plantaria-ResourcePack/main/assets/plantaria/textures/ranks/content-label.png)
+**Zeichen:** `\uE252`  
 **Datei:** `plantaria:ranks/content-label.png`
 
-## Moderator
-**Zeichen:** `\uE253`
+## Moderator | ![Moderator Label](https://raw.githubusercontent.com/Plantaria-Network/Plantaria-ResourcePack/main/assets/plantaria/textures/ranks/moderator-label.png)
+**Zeichen:** `\uE253`  
 **Datei:** `plantaria:ranks/moderator-label.png`
 
-## VIP+
-**Zeichen:** `\uE254`
+## VIP+ | ![VIP+ Label](https://raw.githubusercontent.com/Plantaria-Network/Plantaria-ResourcePack/main/assets/plantaria/textures/ranks/vipplus-label.png)
+**Zeichen:** `\uE254`  
 **Datei:** `plantaria:ranks/vipplus-label.png`
 
-## VIP
-**Zeichen:** `\uE255`
+## VIP | ![VIP Label](https://raw.githubusercontent.com/Plantaria-Network/Plantaria-ResourcePack/main/assets/plantaria/textures/ranks/vip-label.png)
+**Zeichen:** `\uE255`  
 **Datei:** `plantaria:ranks/vip-label.png`
 
-## Premium+
-**Zeichen:** `\uE256`
+## Premium+ | ![Premium+ Label](https://raw.githubusercontent.com/Plantaria-Network/Plantaria-ResourcePack/main/assets/plantaria/textures/ranks/premiumplus-label.png)
+**Zeichen:** `\uE256`  
 **Datei:** `plantaria:ranks/premiumplus-label.png`
 
-### Premium
-**Zeichen:** `\uE257`
+## Premium | ![Premium Label](https://raw.githubusercontent.com/Plantaria-Network/Plantaria-ResourcePack/main/assets/plantaria/textures/ranks/premium-label.png)
+**Zeichen:** `\uE257`  
 **Datei:** `plantaria:ranks/premium-label.png`
