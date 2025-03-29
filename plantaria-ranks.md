@@ -31,3 +31,7 @@
 ## Premium | ![Premium Label](https://raw.githubusercontent.com/Plantaria-Network/Plantaria-ResourcePack/main/assets/plantaria/textures/ranks/premium-label.png)
 **Zeichen:** `\uE257`  
 **Datei:** `plantaria:ranks/premium-label.png`
+
+## Player | ![Player Label](https://raw.githubusercontent.com/Plantaria-Network/Plantaria-ResourcePack/main/assets/plantaria/textures/ranks/player-label.png)
+**Zeichen:** `\uE258`  
+**Datei:** `plantaria:ranks/player-label.png`
