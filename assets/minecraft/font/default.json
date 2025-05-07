@@ -13,7 +13,7 @@
     {"file": "plantaria:logos/plantaria-mini.png","chars": ["\uE270"],"height": 16,"ascent": 7,"type": "bitmap"},
     {"file": "plantaria:logos/plantaria-mini.png","chars": ["\uE271"],"height": 32,"ascent": 7,"type": "bitmap"},
 
-    {"file": "plantaria:icons/coins.png","chars": ["\uE280"],"height": 7,"ascent": 7,"type": "bitmap"},
-    {"file": "plantaria:icons/emeralds.png","chars": ["\uE281"],"height": 7,"ascent": 7,"type": "bitmap"}
+    {"file": "plantaria:icons/coins.png","chars": ["\uE280"],"height": 3,"ascent": 3,"type": "bitmap"},
+    {"file": "plantaria:icons/emeralds.png","chars": ["\uE281"],"height": 3,"ascent": 3,"type": "bitmap"}
   ]
 }
