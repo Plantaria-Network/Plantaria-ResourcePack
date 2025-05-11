@@ -10,12 +10,12 @@
     {"file": "plantaria:ranks/premium-label.png","chars": ["\uE257"],"height": 7,"ascent": 7,"type": "bitmap"},
     {"file": "plantaria:ranks/player-label.png","chars": ["\uE258"],"height": 7,"ascent": 7,"type": "bitmap"},
 
-    {"file": "plantaria:labels/multiplayer.png","chars": ["\uE290"],"height": 7,"ascent": 7,"type": "bitmap"},
-
     {"file": "plantaria:logos/plantaria-mini.png","chars": ["\uE270"],"height": 16,"ascent": 7,"type": "bitmap"},
     {"file": "plantaria:logos/plantaria-mini.png","chars": ["\uE271"],"height": 32,"ascent": 7,"type": "bitmap"},
 
     {"file": "plantaria:icons/coins.png","chars": ["\uE280"],"height": 9,"ascent": 9,"type": "bitmap"},
-    {"file": "plantaria:icons/emeralds.png","chars": ["\uE281"],"height": 9,"ascent": 9,"type": "bitmap"}
+    {"file": "plantaria:icons/emeralds.png","chars": ["\uE281"],"height": 9,"ascent": 9,"type": "bitmap"},
+
+    {"file": "plantaria:labels/multiplayer.png","chars": ["\uE290"],"height": 7,"ascent": 7,"type": "bitmap"}
   ]
 }

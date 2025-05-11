@@ -18,6 +18,12 @@ For a complete list of rank labels, see [Plantaria Rank Labels](plantaria-ranks.
 ## Logos
 For a complete list of Logos, see [Plantaria Logos](plantaria-logos.md).
 
+## Icons
+For a complete list of Icons, see [Plantaria Icons](plantaria-icons.md).
+
+## Labels
+For a complete list of Labels, see [Plantaria Labels](plantaria-labels.md).
+
 ## Contact
 Visit us on our website:  
 - Website: [Plantaria Network](https://plantaria.net)
