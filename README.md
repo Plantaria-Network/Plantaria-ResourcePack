@@ -15,8 +15,8 @@ This resource pack is published under the **Creative Commons License** and is re
 ## Ranks
 For a complete list of rank labels, see [Plantaria Rank Labels](plantaria-ranks.md).
 
-## Logos
-For a complete list of Logos, see [Plantaria Logos](plantaria-logos.md).
+## Letterings
+For a complete list of Letterings, see [Plantaria Letterings](plantaria-letterings.md).
 
 ## Icons
 For a complete list of Icons, see [Plantaria Icons](plantaria-icons.md).
